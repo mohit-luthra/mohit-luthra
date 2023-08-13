@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohit Luthra</h1>
-<h3 align="center">Welcome to my data realm! 📊 As a seasoned data analyst with a year of experience, I've become a maestro in translating raw data into meaningful narratives. By day, I'm in pursuit of data-driven mysteries, and by night, I'm a fervent apprentice of 🤖 AI and machine learning, crafting algorithms that shape the future. 📈 My journey is fueled by the ambition to metamorphose into a full-fledged data scientist 🧙‍♂️, steering the course of innovation through the boundless sea of data. With each line of code, I'm weaving a tale of insights and possibilities, unraveling the potential of every byte. When I'm not chasing the next Eureka moment, I'm on a cosmic quest to decode the secrets of the universe (or at least that's what my constellation-themed coffee mug ☕ suggests). Embark on this odyssey with me as I navigate through the landscapes of data, AI, and dreams. 🚀🔍 #DataWhisperer #FutureDataScientist</h3>
+<h3 align="center">Welcome to my data realm! 📊 As a seasoned data analyst with a year of experience, I've become a maestro in translating raw data into meaningful narratives. By day, I'm in pursuit of data-driven mysteries, and by night, I'm a fervent apprentice of 🤖 AI and machine learning, crafting algorithms that shape the future. 
+  
+  📈 My journey is fueled by the ambition to metamorphose into a full-fledged data scientist 🧙‍♂️, steering the course of innovation through the boundless sea of data. With each line of code, I'm weaving a tale of insights and possibilities, unraveling the potential of every byte. 
+   
+  When I'm not chasing the next Eureka moment, I'm on a cosmic quest to decode the secrets of the universe (or at least that's what my constellation-themed coffee mug ☕ suggests). Embark on this odyssey with me as I navigate through the landscapes of data, AI, and dreams. 🚀🔍 #DataWhisperer #FutureDataScientist</h3>
 
 - 🔭 I’m currently working on **Machine Learning Project**
 
