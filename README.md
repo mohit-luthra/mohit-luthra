@@ -1,17 +1,35 @@
-<h1 align="center">Hi 👋, I'm Mohit Luthra</h1>
-<h3 align="center">Welcome to my data realm! 📊 As a seasoned data analyst with a year of experience, I've become a maestro in translating raw data into meaningful narratives. By day, I'm in pursuit of data-driven mysteries, and by night, I'm a fervent apprentice of 🤖 AI and machine learning, crafting algorithms that shape the future. 
-  
-  📈 My journey is fueled by the ambition to metamorphose into a full-fledged data scientist 🧙‍♂️, steering the course of innovation through the boundless sea of data. With each line of code, I'm weaving a tale of insights and possibilities, unraveling the potential of every byte. 
-   
-  When I'm not chasing the next Eureka moment, I'm on a cosmic quest to decode the secrets of the universe (or at least that's what my constellation-themed coffee mug ☕ suggests). Embark on this odyssey with me as I navigate through the landscapes of data, AI, and dreams. 🚀🔍 #DataWhisperer #FutureDataScientist</h3>
+<h1 align="center">Hi 👋, I'm Mohit Luthra</h1>  
+<h3 align="center">Data Analyst | AI & Machine Learning Enthusiast</h3>  
 
-- 🔭 I’m currently working on **Machine Learning Project**
+---
 
-- 🌱 I’m currently learning **Computer Vision**
+## 🚀 About Me  
 
-- 💬 Ask me about **Data Analytics**
+With **three years of experience in data analysis**, I specialize in **transforming raw data into meaningful insights** that drive business decisions. My expertise spans across:  
+- **Data visualization** 📊  
+- **Statistical modeling** 📈  
+- **Machine learning** 🤖  
 
-- 📫 How to reach me **mohit.luthra2022@gmail.com**
+I help organizations **uncover patterns, optimize strategies, and make data-backed decisions** to improve efficiency and outcomes.  
+
+Beyond my professional work, I continuously **expand my skill set in AI and machine learning**, particularly in **computer vision**, to push the boundaries of what data can achieve. I thrive on **problem-solving, efficiency optimization, and uncovering insights** that create real-world impact.  
+
+---
+
+## 🔍 What I’m Currently Focused On  
+
+- 🔭 **Working on:** A **machine learning project** with real-world applications.  
+- 🌱 **Learning:** Advanced **computer vision techniques** and AI applications.  
+- 💬 **Ask me about:** **Data analytics, visualization, predictive modeling, and Python.**  
+
+---
+
+## 📫 Let's Connect  
+
+📩 **Email:** mohit.luthra2022@gmail.com  
+
+Let’s collaborate and turn data into **actionable intelligence!** 🚀  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
