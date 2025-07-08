@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Luthra</h1>  
-<h3 align="center">Data Analyst | AI & Machine Learning Enthusiast</h3>  
+<h3 align="center">Data Scientist | AI & Machine Learning Enthusiast</h3>  
 
 ---
 
