@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.mohitluthra.com"><img src="https://img.shields.io/badge/Website-mohitluthra.com-EF4444?style=flat-square&logo=safari&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mohit-l-578080252/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:mohit.luthra2022@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_out-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -25,17 +25,17 @@ Outside of the day job I ship live, AI-powered data products and run applied res
 **Ticker.ai** — Stock Intelligence · *Live*
 India's retail-grade alternative-data dashboard. **SuperIndex** composite score built from 7 signals, real-time Nifty, global markets, and macro feeds, with AI narration via LLaMA 3.3.
 `Python` `FastAPI` `React` `Groq` `yfinance` `NSE APIs`
-[ Live → ](REPLACE_WITH_LIVE_URL)
+[ Live → ](https://ticker-ai-psi.vercel.app/)
 
 **BrandPulse AI** — Brand Intelligence · *Live*
 AI-powered brand intelligence for Indian consumer brands. Sentiment analysis, brand-health tracking, and competitive benchmarking across social and news data.
 `Python` `NLP` `React` `LLMs` `News APIs`
-[ Live → ](REPLACE_WITH_LIVE_URL) · [ Code → ](https://github.com/mohit-luthra/brandpulse-ai)
+[ Live → ](https://huggingface.co/spaces/mohitluthra/brandpulse-ai) · [ Code → ](https://github.com/mohit-luthra/brandpulse-ai)
 
 **Prism** — MarTech Analytics · *In Development*
-Campaign intelligence platform for martech teams. MMM regression, causal inference (ITS, DiD, lift), a full EDA suite, and AI narration — all in Economist-style charts.
+Campaign intelligence platform for martech teams. MMM regression, causal inference (ITS, DiD, lift), a full EDA suite, and AI narration — all in advanced charts.
 `FastAPI` `React` `statsmodels` `Groq` `BigQuery` `Plotly`
-[ Live → ](REPLACE_WITH_LIVE_URL)
+[ Live → ](https://www.mohitluthra.com/)
 
 > Full case studies and live demos at **[mohitluthra.com](https://www.mohitluthra.com)**
 
@@ -45,7 +45,7 @@ Campaign intelligence platform for martech teams. MMM regression, causal inferen
 
 **Temporal Decay Weighting for Time-Aware Retrieval-Augmented Generation**
 Applies exponential adstock decay — borrowed from marketing mix modeling — to RAG retrieval scoring. Key finding: half-life sensitivity shows a crossover near *h ≈ 700 days*, aligning with annual planning cycles.
-[ arXiv → ](REPLACE_WITH_ARXIV_URL) · [ Code → ](https://github.com/mohit-luthra/temporal-rag)
+[ arXiv → ](https://www.mohitluthra.com/) · [ Code → ](https://github.com/mohit-luthra/temporal-rag)
 
 ---
 
