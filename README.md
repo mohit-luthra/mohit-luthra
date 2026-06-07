@@ -1,43 +1,84 @@
-<h1 align="center">Hi 👋, I'm Mohit Luthra</h1>  
-<h3 align="center">Data Scientist | AI & Machine Learning Enthusiast</h3>  
+<h1 align="center">Mohit Luthra</h1>
+<p align="center"><b>Data Scientist · MarTech &amp; AI · New Delhi, India</b></p>
+<p align="center"><i>I build data products that actually ship.</i></p>
 
----
-
-## 🚀 About Me  
-
-With **three years of experience in data analysis**, I specialize in **transforming raw data into meaningful insights** that drive business decisions. My expertise spans across:  
-- **Data visualization** 📊  
-- **Statistical modeling** 📈  
-- **Machine learning** 🤖  
-
-I help organizations **uncover patterns, optimize strategies, and make data-backed decisions** to improve efficiency and outcomes.  
-
-Beyond my professional work, I continuously **expand my skill set in AI and machine learning**, particularly in **computer vision**, to push the boundaries of what data can achieve. I thrive on **problem-solving, efficiency optimization, and uncovering insights** that create real-world impact.  
-
----
-
-## 🔍 What I’m Currently Focused On  
-
-- 🔭 **Working on:** A **machine learning project** with real-world applications.  
-- 🌱 **Learning:** Advanced **computer vision techniques** and AI applications.  
-- 💬 **Ask me about:** **Data analytics, visualization, predictive modeling, and Python.**  
-
----
-
-## 📫 Let's Connect  
-
-📩 **Email:** mohit.luthra2022@gmail.com  
-
-Let’s collaborate and turn data into **actionable intelligence!** 🚀  
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/mohit0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohit0_0" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mohit_luthra001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohit_luthra001" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.mohitluthra.com"><img src="https://img.shields.io/badge/Website-mohitluthra.com-EF4444?style=flat-square&logo=safari&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:mohit.luthra2022@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_out-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit-luthra&show_icons=true&locale=en&layout=compact" alt="mohit-luthra" /></p>
+## About
+
+Data Scientist at **Havas CSA**, working where marketing technology meets data science — campaign measurement, media analytics, and statistical modeling for brands like Tata 1mg.
+
+Outside of the day job I ship live, AI-powered data products and run applied research on retrieval systems. Currently open to senior MarTech roles and growth-analytics consulting.
+
+`Data Scientist`  `MarTech & AI`  `5+ years`  `3 products in production`
+
+---
+
+## Featured Work
+
+**Ticker.ai** — Stock Intelligence · *Live*
+India's retail-grade alternative-data dashboard. **SuperIndex** composite score built from 7 signals, real-time Nifty, global markets, and macro feeds, with AI narration via LLaMA 3.3.
+`Python` `FastAPI` `React` `Groq` `yfinance` `NSE APIs`
+[ Live → ](REPLACE_WITH_LIVE_URL)
+
+**BrandPulse AI** — Brand Intelligence · *Live*
+AI-powered brand intelligence for Indian consumer brands. Sentiment analysis, brand-health tracking, and competitive benchmarking across social and news data.
+`Python` `NLP` `React` `LLMs` `News APIs`
+[ Live → ](REPLACE_WITH_LIVE_URL) · [ Code → ](https://github.com/mohit-luthra/brandpulse-ai)
+
+**Prism** — MarTech Analytics · *In Development*
+Campaign intelligence platform for martech teams. MMM regression, causal inference (ITS, DiD, lift), a full EDA suite, and AI narration — all in Economist-style charts.
+`FastAPI` `React` `statsmodels` `Groq` `BigQuery` `Plotly`
+[ Live → ](REPLACE_WITH_LIVE_URL)
+
+> Full case studies and live demos at **[mohitluthra.com](https://www.mohitluthra.com)**
+
+---
+
+## Research
+
+**Temporal Decay Weighting for Time-Aware Retrieval-Augmented Generation**
+Applies exponential adstock decay — borrowed from marketing mix modeling — to RAG retrieval scoring. Key finding: half-life sensitivity shows a crossover near *h ≈ 700 days*, aligning with annual planning cycles.
+[ arXiv → ](REPLACE_WITH_ARXIV_URL) · [ Code → ](https://github.com/mohit-luthra/temporal-rag)
+
+---
+
+## Stack
+
+**Languages & Core**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**ML, Stats & NLP**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-3B5998?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs%20%26%20RAG-6E56CF?style=flat-square)
+
+**Data & Viz**
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Build & Serve**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+
+---
+
+## GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohit-luthra&show_icons=true&hide_border=true&theme=dark&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit-luthra&layout=compact&hide_border=true&theme=dark&langs_count=8" />
+</p>
+
+<p align="center"><i>Building at the intersection of martech, statistics, and applied AI.</i></p>
